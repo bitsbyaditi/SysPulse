@@ -1,4 +1,5 @@
 SysPulse
+
 SysPulse is a Linux server health-check and troubleshooting toolkit built using Bash scripting. It collects basic system information to help users monitor the health of a Linux server.
 
 Features
